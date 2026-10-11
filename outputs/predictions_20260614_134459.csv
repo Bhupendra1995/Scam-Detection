@@ -1,0 +1,9 @@
+message_text,label,predicted_label
+Your Amazon order #123456 has been shipped,Scam,Not Scam
+Can we reschedule our call to 2 PM instead of 1?,Not Scam,Not Scam
+Get rich quick! Invest in our crypto scheme and double your money.,Scam,Scam
+Can we reschedule our call to 2 PM instead of 1?,Not Scam,Not Scam
+Urgent: Your bank account has been compromised. Verify your identity now.,Scam,Scam
+Can we reschedule our call to 2 PM instead of 1?,Not Scam,Not Scam
+Hi just checking in on the project status. Let me know if you need anything.,Not Scam,Not Scam
+Meeting agenda for next week attached in this email.,Not Scam,Uncertain

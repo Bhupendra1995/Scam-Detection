@@ -1,0 +1,15 @@
+{
+  "total": 8,
+  "correct": 6,
+  "accuracy": 75.0,
+  "class_metrics": {
+    "not scam": {
+      "recall": 80.0,
+      "f1_score": 80.0
+    },
+    "scam": {
+      "recall": 66.67,
+      "f1_score": 80.0
+    }
+  }
+}
